@@ -1,6 +1,6 @@
-# robust Pseudo label Training and source domain Joint-training Network (PTJN)
+# Robust Pseudo label Training and source domain Joint-training Network (PTJN)
 Data and code for paper titled [New User Intent Discovery with Robust Pseudo
-Label Training and Source Domain Joint-training](https://arxiv.org/abs/2211.15115) (IEEE Intelligent Systems paper)
+Label Training and Source Domain Joint-training](-) (IEEE Intelligent Systems)
 
 *New (User) Intent Discovery (NID)* aims at discovering new intents from unlabeled data and then classifying inputs into proper (known or new) intents. In this paper, we propose a robust Pseudo label Training and source domain Joint training Network (PTJN) to generate robust pseudo labels for unlabeled data and fully utilize prior knowledge from labeled data. 
 
