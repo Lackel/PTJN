@@ -1,4 +1,4 @@
-# Robust Pseudo label Training and source domain Joint-training Network (PTJN)
+# Robust Pseudo Label Training and Source Domain Joint-training Network (PTJN)
 Data and code for paper titled [New User Intent Discovery with Robust Pseudo
 Label Training and Source Domain Joint-training](-) (IEEE Intelligent Systems)
 
