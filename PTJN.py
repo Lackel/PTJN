@@ -1,5 +1,4 @@
 import os
-os.environ["CUDA_VISIBLE_DEVICES"] = '0'
 import torch
 from init_parameter import init_model
 from data import Data
@@ -199,6 +198,8 @@ if __name__ == '__main__':
     parser = init_model()
     args = parser.parse_args()
     data = Data(args)
+    os.environ["CUDA_VISIBLE_DEVICES"] = args.gpu_id
+    
     if args.pretrain:
         print('Pre-training begin...')
         manager_p = PretrainModelManager(args, data)

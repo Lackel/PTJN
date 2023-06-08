@@ -13,6 +13,8 @@ def init_model():
     
     parser.add_argument("--bert_model", default="bert-base-uncased", type=str, help="The path for the pre-trained bert model.")
     
+    parser.add_argument("--gpu_id", default="0", type=str, help="The path for the pre-trained bert model.")
+
     parser.add_argument("--max_seq_length", default=None, type=int,
                         help="The maximum total input sequence length after tokenization. Sequences longer "
                              "than this will be truncated, sequences shorter will be padded.")
