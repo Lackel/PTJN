@@ -58,5 +58,11 @@ Some code references the following repositories:
 ## Citation
 If our paper or code is helpful to you, please consider citing our paper:
 ```
-Coming soon
+@article{an2023new,
+  title={New User Intent Discovery with Robust Pseudo Label Training and Source Domain Joint-training},
+  author={An, Wenbin and Tian, Feng and Chen, Ping and Zheng, Qinghua and Ding, Wei},
+  journal={IEEE Intelligent Systems},
+  year={2023},
+  publisher={IEEE}
+}
 ```
