@@ -18,7 +18,7 @@ Label Training and Source Domain Joint-training](-) (IEEE Intelligent Systems)
 
 [6. Thanks](#thanks)
 
-[6. Citation](#citation)
+[7. Citation](#citation)
 
 ## Data
 We performed experiments on three public datasets: [clinc](https://aclanthology.org/D19-1131/), [banking](https://aclanthology.org/2020.nlp4convai-1.5/) and [stackoverflow](https://aclanthology.org/W15-1509/), which have been included in our repository in the data folder ' ./data '.
